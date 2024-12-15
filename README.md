@@ -61,7 +61,7 @@ Ensure you have installed:
 2. Install dependencies:
 
    ```
-   cd /frontend
+   cd frontend
 
    npm install
 
@@ -85,7 +85,7 @@ Ensure you have installed:
 4. Install Backend dependencies (new terminal):
 
    ```
-   cd /backend
+   cd backend
    
    npm install
 
